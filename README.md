@@ -3,13 +3,13 @@
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Docker](https://img.shields.io/badge/docker-ready-brightgreen.svg)](https://www.docker.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Built by NEO](https://img.shields.io/badge/built%20by-NEO-black.svg)](vscode:extension/NeoResearchInc.heyneo)
+[![Built by NEO](https://img.shields.io/badge/built%20by-NEO-black.svg)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)
 
 > ⚠️ **Disclaimer:** This is a simulation project for educational and research purposes only. It does **not** constitute financial advice. Stock trading involves significant risk — past simulated performance is not indicative of real-world results. Always consult a qualified financial advisor before making investment decisions.
 
 ---
 
-This repository was built by **<a href="vscode:extension/NeoResearchInc.heyneo" style="color:#1a7fd4;">NEO</a>**, an autonomous ML agent capable of end-to-end software development — from architecture design to deployment.
+This repository was built by **[NEO](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)**, an autonomous ML agent capable of end-to-end software development — from architecture design to deployment.
 
 ---
 
@@ -119,4 +119,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-*Built autonomously by <a href="vscode:extension/NeoResearchInc.heyneo" style="color:#1a7fd4;">NEO</a> — an ML agent that designed, coded, and deployed this system end-to-end. More of NEO's work: [Medical Report Analysis Pipeline](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo).*
+*Built autonomously by **[NEO](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)** — an ML agent that designed, coded, and deployed this system end-to-end. More of NEO's work: [Medical Report Analysis Pipeline](https://github.com/dakshjain-1616/Medical-Report-Analysis-Pipeline-by-Neo).*
